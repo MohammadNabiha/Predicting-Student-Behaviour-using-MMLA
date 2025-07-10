@@ -1,2 +1,2 @@
-# Predicting-Student-Behaviour-using-MMLAour-using-
-Developed a machine learning system to predict behavior changes in special education students during therapy sessions. Used Python to analyze emotional, environmental, and academic data, achieving 98% accuracy in behavioral predictions.
+# Predicting-Student-Behaviour-using-MMLA
+This project uses Multimodal Learning Analytics (MMLA) to predict behavior changes in students with Special Education Needs (SEN) undergoing Applied Behavior Analysis (ABA) therapy. By combining diverse data sources—such as emotional state, physical movement, environmental conditions, and academic progress—we built predictive models that help educators and therapists support SEN students more effectively.
